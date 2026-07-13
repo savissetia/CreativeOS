@@ -1,5 +1,3 @@
----
-
 # Creative Frameworks
 
 Creative Frameworks define how CreativeOS generates, develops and refines creative ideas.
