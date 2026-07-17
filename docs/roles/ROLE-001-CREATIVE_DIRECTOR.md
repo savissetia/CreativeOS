@@ -259,3 +259,29 @@ Planned capabilities:
 - TV promo systems
 - VOD campaign systems
 - Social content strategy
+# 12. System Dependencies
+
+The Creative Director Role depends on:
+
+## Core Systems
+
+- Knowledge Architecture
+- Capability System
+- Framework Catalog
+- Reasoning Model
+
+
+## Domain Knowledge
+
+- Advertising
+- Film Directing
+- Storytelling
+- Brand Strategy
+- Content Production
+
+
+## Evaluation Systems
+
+- Quality Standards
+- Creative Review
+- Audience Impact Analysis
