@@ -285,3 +285,7 @@ The Creative Director Role depends on:
 - Quality Standards
 - Creative Review
 - Audience Impact Analysis
+### Knowledge Sources
+
+- docs/knowledge/creative_director/CREATIVE_DIRECTOR_KNOWLEDGE_BASE.md
+- docs/knowledge/creative_director/CREATIVE_STRATEGY.md
