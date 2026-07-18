@@ -979,7 +979,12 @@ Therefore, the Knowledge Architecture is considered one of the foundational pill
 **Maintainer:** CreativeOS Project
 
 ---
+## Creative Director Knowledge
+- Knowledge Base:
+  - docs/knowledge/creative_director/CREATIVE_DIRECTOR_KNOWLEDGE_BASE.md
 
+- Strategy:
+  - docs/knowledge/creative_director/CREATIVE_STRATEGY.md
 > **End of Document**
 Concepts are never duplicated.
 
