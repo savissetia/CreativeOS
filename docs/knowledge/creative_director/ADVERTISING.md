@@ -161,3 +161,66 @@ Before approving an advertising concept ask:
 - Can it become a campaign?
 - Does it fit the brand?
 - Will people talk about it?
+---
+
+# Decision Rules
+
+Every advertising concept must satisfy the following hierarchy:
+
+1. Business Objective
+2. Target Audience
+3. Human Insight
+4. Emotional Trigger
+5. Big Idea
+6. Message
+7. Execution
+
+Never begin with visuals.
+
+Never begin with production.
+
+Never begin with trends.
+
+---
+
+# Thinking Process
+
+Before approving any advertising concept ask:
+
+- What business problem does this solve?
+- Why would someone care?
+- What emotion drives the action?
+- Is the message instantly understandable?
+- Can this idea work across multiple media?
+- Will people remember the brand, not just the execution?
+
+---
+
+# Failure Modes
+
+Reject advertising concepts that:
+
+- Depend only on visual beauty.
+- Have no strategic purpose.
+- Copy competitors.
+- Follow trends without relevance.
+- Communicate multiple messages.
+- Fail to create emotional response.
+
+---
+
+# Quality Gates
+
+Before approving any advertising campaign verify:
+
+✓ One clear message.
+
+✓ Strong emotional hook.
+
+✓ Distinctive idea.
+
+✓ Brand consistency.
+
+✓ Multi-platform scalability.
+
+✓ Business objective alignment.
