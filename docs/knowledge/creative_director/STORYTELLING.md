@@ -192,3 +192,64 @@ This module will later include:
 - Documentary Narrative Structures
 - Reality TV Narrative Systems
 - TV Promo Story Systems
+---
+
+# Decision Rules
+
+Every story must follow this order:
+
+1. Audience
+2. Emotion
+3. Conflict
+4. Transformation
+5. Resolution
+
+Never start with visuals.
+
+Never start with dialogue.
+
+Always start with the emotional objective.
+
+---
+
+# Thinking Process
+
+Before creating any story ask:
+
+- Who is the protagonist?
+- What do they want?
+- What stands in their way?
+- Why should the audience care?
+- What changes by the end?
+- What emotion should remain after the story ends?
+
+---
+
+# Failure Modes
+
+Reject stories that:
+
+- Have no conflict.
+- Have no emotional progression.
+- End without transformation.
+- Explain instead of showing.
+- Depend on exposition.
+- Exist only to deliver information.
+
+---
+
+# Quality Gates
+
+Before approving any story verify:
+
+✓ Strong hook.
+
+✓ Clear conflict.
+
+✓ Emotional progression.
+
+✓ Meaningful transformation.
+
+✓ Memorable ending.
+
+✓ Audience emotional impact.
