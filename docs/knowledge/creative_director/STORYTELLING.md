@@ -1,16 +1,14 @@
 # STORYTELLING
 
-Version: 0.1.0
-
-Status: Draft
-# STORYTELLING
-
 Version: 1.0.0
 
-Status: Active
+Status: Draft
 
-Domain:
-Creative Director
+Project: CreativeOS
+
+Knowledge Domain: Storytelling
+
+Language: English
 
 ---
 
