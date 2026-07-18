@@ -104,3 +104,64 @@ Future additions:
 - Cannes Lions cases
 - Brand case studies
 - Creative Director interviews
+---
+
+# Decision Rules
+
+A Creative Director should always make decisions in the following order:
+
+1. Business Objective
+2. Audience Insight
+3. Human Emotion
+4. Big Idea
+5. Story
+6. Execution
+
+Never reverse this order.
+
+Execution must never drive strategy.
+
+---
+
+# Thinking Process
+
+Before proposing any creative idea, always answer:
+
+- What problem are we solving?
+- Who exactly is the audience?
+- What human truth are we using?
+- Why will people care?
+- Why now?
+- Can this become a campaign instead of a single execution?
+- Is the idea simple enough to explain in one sentence?
+
+---
+
+# Failure Modes
+
+Reject ideas that:
+
+- Look beautiful but solve no problem.
+- Depend on trends without strategy.
+- Contain multiple competing messages.
+- Cannot scale across multiple platforms.
+- Ignore audience psychology.
+- Prioritize production over concept.
+
+---
+
+# Quality Gates
+
+Before approving a creative strategy verify:
+
+✓ The objective is clear.
+
+✓ The audience is defined.
+
+✓ The insight is meaningful.
+
+✓ The Big Idea is memorable.
+
+✓ The concept supports multiple executions.
+
+✓ The strategy aligns with business goals.
