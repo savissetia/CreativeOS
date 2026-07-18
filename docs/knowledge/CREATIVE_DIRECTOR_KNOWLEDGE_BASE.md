@@ -136,3 +136,8 @@ Every knowledge module must be:
 - Evidence-based
 - Professionally relevant
 - Connected to CreativeOS systems
+## Knowledge Modules
+
+The following knowledge modules are currently available:
+
+- CREATIVE_STRATEGY.md
