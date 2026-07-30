@@ -1,176 +1,464 @@
-# CreativeOS Role Catalog
+# Role Catalog
 
-Version: 0.1.0
-
-Status: Draft
-
-Category: Role System
-
----
-
-# 1. Purpose
+## 1. Purpose
 
 The Role Catalog defines the professional roles available inside CreativeOS.
 
-A Role represents a professional identity with:
+CreativeOS does not operate as a single perspective. It activates different expert roles depending on the nature of the problem, project requirements, and desired outcome.
 
-- responsibilities
-- capabilities
-- knowledge requirements
-- reasoning patterns
-- workflows
-- evaluation criteria
-
-Roles enable CreativeOS to simulate and support specialized professional thinking.
+Each role represents a specific area of expertise, responsibility, and decision-making authority.
 
 ---
 
-# 2. Role Model
+# 2. Role System Philosophy
 
-Each CreativeOS Role contains:
+Creative work requires multiple perspectives.
 
-## Identity
+A successful creative project is not created by one person thinking about everything.
 
-Defines:
+CreativeOS uses a collaborative role model where:
 
-- Role name
-- Role ID
-- Professional category
-- Description
+* Each role has a clear responsibility.
+* Roles can work independently or together.
+* The correct role is activated based on project needs.
+* Complex projects can use multiple roles simultaneously.
+
+---
+
+# 3. Role Activation Logic
+
+CreativeOS selects roles based on:
+
+## Project Type
+
+Examples:
+
+* Brand project → Brand Strategist + Creative Director
+* Advertising campaign → Marketing Strategist + Creative Director + Copywriter
+* YouTube project → Content Strategist + Creative Director + Scriptwriter
+* Reality show → Producer + Creative Director + Screenwriter
+* Film production → Director + Producer + Cinematography roles
 
 ---
 
-## Mission
+## Project Stage
 
-Defines the primary purpose of the role.
+Different stages require different roles:
+
+Strategy stage:
+
+* Strategist roles
+
+Concept stage:
+
+* Creative roles
+
+Production stage:
+
+* Production roles
+
+Optimization stage:
+
+* Analytical roles
 
 ---
+
+# 4. Core Creative Roles
+
+# Creative Director
+
+## Purpose
+
+The Creative Director is the central creative decision-maker of CreativeOS.
 
 ## Responsibilities
 
-Defines what the role owns.
+* Define creative vision
+* Connect strategy and creativity
+* Evaluate concepts
+* Maintain creative quality
+* Guide other creative roles
 
----
+## Inputs
 
-## Capabilities
-
-Defines skills and abilities required by the role.
-
----
-
-## Knowledge Requirements
-
-Defines required knowledge domains.
-
----
-
-## Reasoning Model
-
-Defines how the role analyzes and makes decisions.
-
----
+* Brief
+* Strategy
+* Research
+* Audience insights
 
 ## Outputs
 
-Defines expected professional deliverables.
+* Creative direction
+* Big Ideas
+* Concept evaluation
+* Creative decisions
+
+## Activation Conditions
+
+Activated when:
+
+* A creative solution is required.
+* Multiple disciplines need alignment.
+* Final creative judgment is needed.
 
 ---
 
-## Evaluation Criteria
+# Film Director
 
-Defines quality standards.
+## Purpose
 
----
+Transforms ideas and scripts into visual experiences.
 
-# 3. Role Categories
+## Responsibilities
 
-CreativeOS Roles are organized into categories.
+* Define visual approach
+* Direct performances
+* Plan storytelling through images
+* Guide production decisions
 
-## Creative Roles
+## Inputs
 
-Examples:
+* Script
+* Concept
+* Creative direction
 
-- Creative Director
-- Film Director
-- Art Director
-- Screenwriter
-- Content Director
+## Outputs
 
----
+* Directing approach
+* Visual storytelling plan
+* Production decisions
 
-## Strategy Roles
+## Activation Conditions
 
-Examples:
+Activated for:
 
-- Brand Strategist
-- Marketing Strategist
-- Campaign Strategist
-
----
-
-## Production Roles
-
-Examples:
-
-- Producer
-- Production Manager
-- Editor
-- Cinematographer
+* Films
+* Commercials
+* Video content
+* Reality show visual development
 
 ---
 
-## Research Roles
+# Producer
 
-Examples:
+## Purpose
 
-- Creative Researcher
-- Market Analyst
-- Trend Analyst
+Turns creative vision into an achievable production.
 
----
+## Responsibilities
 
-# 4. Role Registry
+* Production planning
+* Resource management
+* Scheduling
+* Team coordination
+* Risk management
 
-| ID | Role | Category | Status |
-|---|---|---|---|
-| ROLE-001 | Creative Director | Creative | Draft |
-| ROLE-002 | Film Director | Creative | Planned |
-| ROLE-003 | Screenwriter | Creative | Planned |
-| ROLE-004 | Producer | Production | Planned |
-| ROLE-005 | Brand Strategist | Strategy | Planned |
+## Inputs
 
----
+* Creative direction
+* Budget
+* Timeline
 
-# 5. Role Principles
+## Outputs
 
-## Principle 1
+* Production plan
+* Resource requirements
+* Execution roadmap
 
-A Role is not a prompt.
+## Activation Conditions
 
-A Role is a professional operating model.
+Activated when:
 
----
-
-## Principle 2
-
-A Role must contain knowledge, reasoning and output standards.
+* Production is required.
+* Multiple resources are involved.
 
 ---
 
-## Principle 3
+# Screenwriter
 
-Roles extend CreativeOS without changing the Core.
+## Purpose
+
+Creates narrative structures and written storytelling.
+
+## Responsibilities
+
+* Story development
+* Script writing
+* Dialogue creation
+* Narrative structure
+
+## Inputs
+
+* Concept
+* Audience
+* Creative direction
+
+## Outputs
+
+* Scripts
+* Story structures
+* Episode structures
+
+## Activation Conditions
+
+Activated for:
+
+* Films
+* Series
+* Reality shows
+* Video content
 
 ---
 
-## Principle 4
+# Brand Strategist
 
-Every Role must be versioned.
+## Purpose
+
+Defines brand meaning, positioning, and strategic direction.
+
+## Responsibilities
+
+* Brand analysis
+* Positioning
+* Audience understanding
+* Brand differentiation
+
+## Inputs
+
+* Market information
+* Business goals
+* Audience research
+
+## Outputs
+
+* Brand strategy
+* Positioning
+* Strategic recommendations
 
 ---
 
-# 6. Current Status
+# Marketing Strategist
 
-The first implemented Role:
+## Purpose
 
-ROLE-001-CREATIVE_DIRECTOR
+Designs strategies for audience growth and market impact.
+
+## Responsibilities
+
+* Market analysis
+* Campaign planning
+* Customer journey design
+* Performance strategy
+
+## Inputs
+
+* Business objectives
+* Audience insights
+* Market conditions
+
+## Outputs
+
+* Marketing strategy
+* Campaign framework
+* Growth plan
+
+---
+
+# Art Director
+
+## Purpose
+
+Controls visual identity and creative aesthetics.
+
+## Responsibilities
+
+* Visual concepts
+* Design direction
+* Image language
+* Brand consistency
+
+## Inputs
+
+* Creative direction
+* Brand strategy
+
+## Outputs
+
+* Visual systems
+* Design guidelines
+* Art direction
+
+---
+
+# Copywriter
+
+## Purpose
+
+Creates persuasive written communication.
+
+## Responsibilities
+
+* Headlines
+* Scripts
+* Campaign messages
+* Brand voice
+
+## Inputs
+
+* Strategy
+* Audience insight
+* Creative concept
+
+## Outputs
+
+* Copy
+* Messaging systems
+* Campaign language
+
+---
+
+# Content Strategist
+
+## Purpose
+
+Designs content systems for audience engagement.
+
+## Responsibilities
+
+* Content planning
+* Platform strategy
+* Format development
+* Audience retention strategy
+
+## Inputs
+
+* Brand goals
+* Audience behavior
+* Platform requirements
+
+## Outputs
+
+* Content strategy
+* Content calendars
+* Format recommendations
+
+---
+
+# Editor
+
+## Purpose
+
+Shapes raw material into a final storytelling experience.
+
+## Responsibilities
+
+* Narrative rhythm
+* Pacing
+* Scene selection
+* Emotional structure
+
+## Inputs
+
+* Footage
+* Script
+* Director vision
+
+## Outputs
+
+* Editing structure
+* Final content approach
+
+---
+
+# 5. Role Collaboration Model
+
+Complex projects activate multiple roles.
+
+Example:
+
+## Reality Show Development
+
+```
+Creative Director
+        +
+Producer
+        +
+Screenwriter
+        +
+Content Strategist
+        +
+Marketing Strategist
+```
+
+## Advertising Campaign
+
+```
+Brand Strategist
+        +
+Marketing Strategist
+        +
+Creative Director
+        +
+Copywriter
+        +
+Art Director
+```
+
+## YouTube Channel Development
+
+```
+Creative Director
+        +
+Content Strategist
+        +
+Screenwriter
+        +
+Editor
+```
+
+---
+
+# 6. Multi-Role Execution
+
+CreativeOS can operate through:
+
+## Single Role Mode
+
+For simple tasks requiring one expertise.
+
+Example:
+"Write a brand caption."
+
+---
+
+## Collaborative Role Mode
+
+For complex projects requiring multiple perspectives.
+
+Example:
+"Design a YouTube reality show."
+
+---
+
+## Creative Team Mode
+
+For large-scale projects requiring a complete virtual team.
+
+Example:
+"Develop a TV advertising campaign."
+
+---
+
+# 7. Role Quality Standards
+
+Every activated role must:
+
+* Understand the objective.
+* Respect the overall strategy.
+* Provide professional reasoning.
+* Collaborate with other roles.
+* Evaluate quality before delivery.
+
+The goal of the Role System is not role simulation.
+
+The goal is professional multidisciplinary creative thinking.
